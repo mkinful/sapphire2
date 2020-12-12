@@ -45,7 +45,7 @@ export const productData = [
         img: product5,
         alt: 'Bath',
         name: 'Bath Essential',
-        desc: "Enjoy a relaxing bath these products after a long day.",
+        desc: "Enjoy a healing bath after a long day.",
         price: '$15.99',
         button: 'Add to Cart'
     },
@@ -69,7 +69,7 @@ export const productData = [
         img: product8,
         alt: 'Cold',
         name: 'Genexa',
-        desc: "Don't the flu season keep you down. Fight back.",
+        desc: "Don't let the flu season keep you down. Fight back.",
         price: '$7.65',
         button: 'Add to Cart'
     },
