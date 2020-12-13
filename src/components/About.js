@@ -16,7 +16,7 @@ export const About = () => {
             <img src="images/owner1.jpg" alt="owner" className="owner-img"/>
             <p className="lead-2">Despite her young age and difficulties faced in starting a pharmacy located in Tema, our founder Juanita Ama Tagoe works hard everyday as the lead pharmacist 
                 to ensure all her customers are satisfied. With a tireless work ethic and commitment to excellence, the next step is to take
-                <strong>Sapphire Pharmacy</strong> and spread it accross Ghana and beyond.</p>
+                 Sapphire Pharmacy and spread it accross Ghana and beyond.</p>
             </div>
     
         </div>

@@ -69,7 +69,7 @@ class Carol extends React.Component{
                         <img
                         className="d-block w-100"
                         src={pharm1}
-                        alt="Third slide"
+                        alt="Second slide"
                         />
                         <Carousel.Caption className="carol-caption">
                         <h3>New Prescriptions and Refills made easy. Order through this site, or through our mobile app.</h3>
