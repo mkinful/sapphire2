@@ -18,7 +18,7 @@ class NavSection extends React.Component{
                                     <Nav.Link href="/pharmacy" active>Pharmacy</Nav.Link>
                                     <Nav.Link href="/products" active>Products</Nav.Link>
                                     <Nav.Link href="/account" active>Account</Nav.Link>
-                                    <Nav.Link href="/about"active>About Us</Nav.Link>
+                                    <Nav.Link href="/about" active>About Us</Nav.Link>
                                     </Nav>
                                     <Form inline>
                                     <FormControl type="text" placeholder="Search..." className="mr-sm-2" />
