@@ -15,21 +15,14 @@ import { Link } from 'react-router-dom';
 
 const Styles = styled.div `
     .jumbo {
-        background: url(${welcomeImage}) fixed;
-        background-size: contain;
+        background: url(${welcomeImage});
+        background-size: cover;
         background-repeat: no-repeat;
         position: relative;
         z-index: -2;
+        margin: 2px;
     }
 
-    .overlay {
-        opacity: 0.6;
-        position: absolute;
-        top: 0;
-        bottom: 0;
-        right: 0;
-        z-index: -1;
-    }
 
 `;
 
@@ -39,7 +32,7 @@ export const Home = () => {
             <Jumbotron fluid className="jumbo">
                 <div className="overlay"></div>
                    <Container>
-                        <h1 className="display-4">Welcome to <br/> Sapphire Pharmacy</h1>
+                        <h1 className="display-2">Welcome to <br/> Sapphire Pharmacy</h1>
                     </Container>
             </Jumbotron>
         </Styles>
@@ -104,7 +97,7 @@ class CardSection extends React.Component{
                     <Card.Title>Pharmacy</Card.Title>
                     <Card.Text>
                     <p className="card-text">Come take care of your prescription needs with our friendly and well educated staff.</p>
-                    <Link to={"/pharmacy"} class="btn btn-outline-primary">Prescriptions</Link>
+                    <Link to={"/pharmacy"} className="btn btn-outline-primary">Prescriptions</Link>
                     </Card.Text>
                     </Card.Body>
                 </Card>
@@ -115,7 +108,7 @@ class CardSection extends React.Component{
                     <Card.Title>Skin Care</Card.Title>
                     <Card.Text>
                     <p className="card-text">Develop a healthy routine of taking care of your skin with our products. We will help your skin glow.</p>
-                    <Link to={"/products"} class="btn btn-outline-success">Beauty Products</Link>
+                    <Link to={"/products"} className="btn btn-outline-success">Beauty Products</Link>
                     </Card.Text>
                     </Card.Body>
                 </Card>
@@ -125,7 +118,7 @@ class CardSection extends React.Component{
                     <Card.Title>Natural Medicines</Card.Title>
                     <Card.Text>
                     <p className="card-text">Discover a natural alternative to traditional medinces. Explore our natural oils and herbs today.</p>
-                    <Link to={"/products"} class="btn btn-outline-danger">Nature's Remedy</Link>
+                    <Link to={"/products"} className="btn btn-outline-danger">Nature's Remedy</Link>
                     </Card.Text>
                     </Card.Body>
                 </Card>

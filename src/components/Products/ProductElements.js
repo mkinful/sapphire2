@@ -4,7 +4,7 @@ export const ProductsContainer = styled.div`
   /* width: 100vw; */
   min-height: 100vh;
   padding: 5rem calc((100vw - 1300px) / 2);
-  background: radial-gradient(#da9d9de7, #f3eeedef);
+  background: radial-gradient(#e6d0d0e7, #f3eeedef);
   color: black;
   font-weight: bolder;
 `;

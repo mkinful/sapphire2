@@ -10,10 +10,10 @@ const Footer = () => {
         <FooterWrap>
           <SocialMedia>
             <SocialMediaWrap>
-              <SocialLogo to='/'>Sapphire Pharmacy <i class="fas fa-file-prescription"></i></SocialLogo>
+              <SocialLogo to='/'>Sapphire Pharmacy <i className="fas fa-file-prescription"></i></SocialLogo>
                          <div className="links">
                               <ul className="list-unstyled">
-                                  <li><Link to='/home'>Home</Link></li>
+                                  <li><Link to='/'>Home</Link></li>
                                   <li><Link to='/pharmacy'>Pharmacy</Link></li>
                                   <li><Link to='/products'>Products</Link></li>
                                   <li><Link to='/account'>My Account</Link></li>

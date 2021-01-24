@@ -1,13 +1,13 @@
 .about-us {
 	font-family: 'Lobster', cursive;
-	background: linear-gradient(rgb(223, 191, 191), rgb(209, 184, 184))
+	background: linear-gradient(rgb(235, 225, 225), rgb(245, 237, 237))
 }
 .about-header {
 	font-size: 3.1rem;
 	font-weight: bolder;
 	text-align: center;
 	padding: 12px;
-	margin: 5px;
+	margin: 1px;
 	letter-spacing: 8px;
 }
 
@@ -48,3 +48,5 @@
 .owner-img {
 	width: 35%;
 }
+
+

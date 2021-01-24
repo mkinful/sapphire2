@@ -1,4 +1,4 @@
-import React from 'react'
+import React from 'react';
 
 const AccSuccess = () => {
     return (
@@ -10,4 +10,4 @@ const AccSuccess = () => {
     )
 }
 
-export default AccSuccess
+export default AccSuccess;

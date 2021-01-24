@@ -1,5 +1,5 @@
 import React from 'react';
-import useForm from './useForm';
+import useForm from './UseForm';
 import validate from './AccInfo';
 import './Account.css';
 
@@ -9,7 +9,7 @@ const AccSign = ({ submitForm }) => {
     return (
         <div className="form-content-right">
             <form className="form" onSubmit={handleSubmit}>
-                <h1>Register today to enjoy the full benefits of Sapphire Pharmacy.</h1>
+                <h1>Register today to enjoy our full benefits.</h1>
                 <div className="form-inputs">
                     <label htmlFor="username" className="form-label">Username</label>
                         <input 
@@ -66,7 +66,7 @@ const AccSign = ({ submitForm }) => {
                     Sign Up
                 </button>
                 <span className="form-input-login">
-                    Already registered? <a href="">Login</a>
+                    Already registered? <a href="/login">Login</a>
                 </span>
             </form>
         </div>

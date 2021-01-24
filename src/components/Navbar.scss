@@ -1,0 +1,15 @@
+.navwrapper {
+    .nav-container {
+        font-size: 20px;
+     }
+     
+     &__custom-nav {
+         background-color: black;
+
+         justify-content: space-evenly;
+     }
+}
+
+nav {
+    background-color: black !important;
+}

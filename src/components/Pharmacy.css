@@ -19,7 +19,7 @@
 
 .pharm {
     padding: 60px;
-    margin: 60px;
+    margin: 80px;
     background: linear-gradient(rgb(15, 174, 248), rgb(81, 159, 211));
 }
 
@@ -39,6 +39,7 @@
     text-align: center;
     display: flex;
     margin: auto;
+    justify-content: center;
 }
 
 .submit-btn:hover {
@@ -46,3 +47,9 @@
     background: linear-gradient( rgb(28, 153, 224) 0%,rgb(17, 29, 51) 100%);
     transition: all 0.4s ease-out;
   }
+
+  @media only screen and (min-width: 420px) {
+    .pharm {
+        font-size: calc(16px + 2vh);
+    }
+}
