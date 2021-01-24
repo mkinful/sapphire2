@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/sapphire2/static/css/main.6185251e.chunk.css",
+    "main.js": "/sapphire2/static/js/main.0ec9b924.chunk.js",
+    "main.js.map": "/sapphire2/static/js/main.0ec9b924.chunk.js.map",
+    "runtime-main.js": "/sapphire2/static/js/runtime-main.10b424eb.js",
+    "runtime-main.js.map": "/sapphire2/static/js/runtime-main.10b424eb.js.map",
+    "static/css/2.0e5170f5.chunk.css": "/sapphire2/static/css/2.0e5170f5.chunk.css",
+    "static/js/2.5d33be99.chunk.js": "/sapphire2/static/js/2.5d33be99.chunk.js",
+    "static/js/2.5d33be99.chunk.js.map": "/sapphire2/static/js/2.5d33be99.chunk.js.map",
+    "static/js/3.59441b33.chunk.js": "/sapphire2/static/js/3.59441b33.chunk.js",
+    "static/js/3.59441b33.chunk.js.map": "/sapphire2/static/js/3.59441b33.chunk.js.map",
+    "index.html": "/sapphire2/index.html",
+    "static/css/2.0e5170f5.chunk.css.map": "/sapphire2/static/css/2.0e5170f5.chunk.css.map",
+    "static/css/main.6185251e.chunk.css.map": "/sapphire2/static/css/main.6185251e.chunk.css.map",
+    "static/js/2.5d33be99.chunk.js.LICENSE.txt": "/sapphire2/static/js/2.5d33be99.chunk.js.LICENSE.txt",
+    "static/media/beauty2.522d77ea.jpg": "/sapphire2/static/media/beauty2.522d77ea.jpg",
+    "static/media/beauty3.dc9e80b6.jpg": "/sapphire2/static/media/beauty3.dc9e80b6.jpg",
+    "static/media/beauty4.fdebe924.jpg": "/sapphire2/static/media/beauty4.fdebe924.jpg",
+    "static/media/cold1.b7f376cd.jpg": "/sapphire2/static/media/cold1.b7f376cd.jpg",
+    "static/media/fish.997346fc.jpg": "/sapphire2/static/media/fish.997346fc.jpg",
+    "static/media/font-awesome.css": "/sapphire2/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/herb1.3ccd68f2.jpg": "/sapphire2/static/media/herb1.3ccd68f2.jpg",
+    "static/media/natural1.3c229081.jpg": "/sapphire2/static/media/natural1.3c229081.jpg",
+    "static/media/natural2.e06eaecc.jpg": "/sapphire2/static/media/natural2.e06eaecc.jpg",
+    "static/media/oils1.5717c552.webp": "/sapphire2/static/media/oils1.5717c552.webp",
+    "static/media/pharmacy.48626531.jpg": "/sapphire2/static/media/pharmacy.48626531.jpg",
+    "static/media/pharmacy2.bcbc4b12.jpg": "/sapphire2/static/media/pharmacy2.bcbc4b12.jpg",
+    "static/media/skincare.9f928754.jpg": "/sapphire2/static/media/skincare.9f928754.jpg",
+    "static/media/skincare2.824b507c.jpg": "/sapphire2/static/media/skincare2.824b507c.jpg",
+    "static/media/vita2.3d7ed44a.jpg": "/sapphire2/static/media/vita2.3d7ed44a.jpg",
+    "static/media/vita3.833c7cdf.jpg": "/sapphire2/static/media/vita3.833c7cdf.jpg",
+    "static/media/welcome1.ce706ac1.png": "/sapphire2/static/media/welcome1.ce706ac1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.10b424eb.js",
+    "static/css/2.0e5170f5.chunk.css",
+    "static/js/2.5d33be99.chunk.js",
+    "static/css/main.6185251e.chunk.css",
+    "static/js/main.0ec9b924.chunk.js"
+  ]
+}
