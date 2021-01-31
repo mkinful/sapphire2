@@ -59,7 +59,7 @@
   color: #fff;
 }
 
-@media only screen and (max-width: 736px) and (min-width: 420px) {
+@media only screen and (max-width: 1200px){
   .form-container {
     width: 100%;
   }
