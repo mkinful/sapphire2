@@ -5,7 +5,7 @@ export const About = () => {
     return (
         <div className="about-us">
             <h1 className="about-header">Who are we?</h1>
-            <img src="images/aboutus2.jpg" alt="about" className="about-img"/>
+            <img src="images/aboutus.jpg" alt="about" className="about-img"/>
             <p className="about-para">Like the precious gemstones we are named after, <strong>Sapphire Pharmacy</strong> is a precious commoditiy in the community of Tema. 
             Established in 2015, <strong>Sapphire Pharmacy</strong> has been a staple in the Downtown Region of Tema by catering to every customer's medical needs. It quickly rose to the ranks due to 
             strong word of mouth, and an even stronger commitment to customer satisfaction. Come visit us our friendly and knowledgeable staff. We're looking forward to servicing your needs. 
