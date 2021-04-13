@@ -1,6 +1,6 @@
 import React from 'react';
 import { ProductsContainer, ProductWrapper, ProductsHeading, ProductTitle, ProductCard, ProductImg,
-  ProductInfo, ProductDesc, ProductPrice, ProductButton } from './ProductElements';
+          ProductInfo, ProductDesc, ProductPrice, ProductButton } from './ProductElements';
 
 const Products = ({ heading, data }) => {
   return (

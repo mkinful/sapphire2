@@ -10,6 +10,7 @@ import product9 from '../../assets/oils1.webp';
 
 export const productData = [
     {
+        id: 1,
         img: product1,
         alt: 'Multi1',
         name: 'B-Complex',
@@ -18,6 +19,7 @@ export const productData = [
         button: 'Add to Cart'
     },
     {
+        id: 2,
         img: product2,
         alt: 'Rite',
         name: 'Ritual Essential',
@@ -26,6 +28,7 @@ export const productData = [
         button: 'Add to Cart'
     },
     {
+        id: 3,
         img: product3,
         alt: 'Fish',
         name: 'Fish Oil',
@@ -34,6 +37,7 @@ export const productData = [
         button: 'Add to Cart'
     },
     {
+        id: 4,
         img: product4,
         alt: 'Cream',
         name: 'All Natural Cream',
@@ -42,6 +46,7 @@ export const productData = [
         button: 'Add to Cart'
     },
     {
+        id: 5,
         img: product5,
         alt: 'Bath',
         name: 'Bath Essential',
@@ -50,6 +55,7 @@ export const productData = [
         button: 'Add to Cart'
     },
     {
+        id: 6,
         img: product6,
         alt: 'Makeup',
         name: 'Makeup Kit',
@@ -58,6 +64,7 @@ export const productData = [
         button: 'Add to Cart'
     },
     {
+        id: 7,
         img: product7,
         alt: 'Nature',
         name: 'Natural Medicine Kit',
@@ -66,6 +73,7 @@ export const productData = [
         button: 'Add to Cart'
     },
     {
+        id: 8,
         img: product8,
         alt: 'Cold',
         name: 'Genexa',
@@ -74,6 +82,7 @@ export const productData = [
         button: 'Add to Cart'
     },
     {
+        id: 9,
         img: product9,
         alt: 'Oil',
         name: 'Essential Oils',

@@ -2,9 +2,11 @@ import React from 'react';
 import useForm from './UseForm';
 import validate from './AccInfo';
 import './Login.css';
+import { useAuth0 } from '@auth0/auth0-react';
 
 const Login = ({ submitForm }) => {
     const { handleChange, values, handleSubmit, errors } = useForm(submitForm, validate);
+    const { loginWithRedirect } = useAuth0();
 
     return (
         <div className="form-content">
@@ -37,7 +39,7 @@ const Login = ({ submitForm }) => {
                         />
                         {errors.password && <p>{errors.password}</p>}
                 </div>
-                <button className="form-input-btn" type="submit">
+                <button className="form-input-btn" type="submit" onClick={() => loginWithRedirect()}>
                     Sign In
                 </button>
                 <span className="form-input-login">
